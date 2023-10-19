@@ -1,6 +1,6 @@
 
 
 ### Lesson 3: User Input and Variables
-- [] Taking user input with input()
-- [] Working with variables and reassignment
-- [] String manipulation and concatenation and arithmetic
+- [x] Taking user input with input()
+- [x] Working with variables and reassignment
+- [x] String manipulation and concatenation and arithmetic
