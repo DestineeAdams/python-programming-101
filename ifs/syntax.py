@@ -4,15 +4,23 @@
 '''
 syntax of and if statement
 
-keyword  Conditional Statements:
+keyword if  Conditional Statements:
     body
+    
+
 
 
 Conditional Statements only run when the Condition is true
 
 '''
 
+
+
+
 IsTrue = True
 
 if IsTrue:
     print("yes")
+
+
+
