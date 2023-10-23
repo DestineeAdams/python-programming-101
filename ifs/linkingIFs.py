@@ -1,11 +1,18 @@
 # Conditional Statements (if, elif, else)
 
-isBookFinished = False
+isBookFinished = True
+percentRead = 100
 
-if condition:
-  pass
-  
+if isBookFinished == False and percentRead < 50:
+  print("keep reading")
+
+elif isBookFinished == False and percentRead >= 50:
+  print("keep reading, your almost there")
+
 else:
-  pass
+  print("good job")
   
 
+
+
+print("done")
