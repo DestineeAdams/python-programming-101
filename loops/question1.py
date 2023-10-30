@@ -6,6 +6,11 @@ and give total
 
 
 numbers = [2, 342, 293, 4]
+total = 0
 
-for item in range:
-    # code
+for i in numbers:
+    total = total + i
+    print(total)
+    
+    
+    
