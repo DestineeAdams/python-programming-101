@@ -3,7 +3,9 @@
 '''
 start - Optional default is 0
 
-stop - required
+stop - required 
+
+step - optional default is 1
 '''
 
 # stop

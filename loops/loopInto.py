@@ -5,6 +5,7 @@
 myList = [1, 2, 44, 6]
 
 for i in myList:
+    
     print(i)
  
 
