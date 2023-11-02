@@ -7,9 +7,8 @@ basic arithmetic
 add: +
 sub: -
 mult: *
-divde /
-
-
+divde: /
+modulo: %
 
 """
 

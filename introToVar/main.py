@@ -66,6 +66,10 @@ float: floating point values ex 1.03, 0.1,-3.5
 str: strings ex:"what", "24566"
 bool: boolean ex: True or False | 1 or 0 | on or off
 
+
+----
+
+list: ex: [1, 3, 5]
 """
 
 # name = value
@@ -89,3 +93,8 @@ print(name, age, hairColor)
 name, age, hairColor = "alice", 21, "red"
 
 print(name, age, hairColor)
+
+
+
+
+mylist = [2, 5 , 6]
