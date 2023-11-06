@@ -9,7 +9,27 @@
 userNumber = []
 userInput = 0
 
-while userInput != "done":
-    userInput = input("enter a number or enter done: ")
-    print(userInput)
+
+# while userInput != "done":
+
+#   userInput = int(input("enter a number or enter done: "))
+#   print(userInput)
+
+      
+      
+      
+# while userInput != "done":
     
+#     try:
+#       userInput = int(input("enter a number or enter done: "))
+#       print(userInput)
+      
+#     except:
+#         userInput = str(input("enter a number or enter done: "))
+#         print('An exception occurred')
+ 
+      
+      
+    
+print("done")
+      
